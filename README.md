@@ -1,3 +1,4 @@
+![logo](https://github.com/kushmittal7238-dot/kushmittal7238-dot/blob/main/ChatGPT%20Image%20Jun%202%2C%202026%2C%2006_16_48%20PM.png)
 <h1 align="center">Hi 👋, I'm Kush Mittal</h1>
 <h3 align="center">A passionate aspiring data analyst from India</h3>
 
