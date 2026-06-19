@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushmittal7238-dot&label=Profile%20views&color=0e75b6&style=flat" alt="kushmittal7238-dot" /> </p>
 
-- 🔭 Project [Vrinda Store Data Analysis](https://github.com/kushmittal7238-dot/vrinda-Store-Data-analysis)
-
 - 🌱 I’m currently learning **Advanced Excel • Power Bl • SQL • Python**
+- 
+- 🔭 Project [Vrinda Store Data Analysis](https://github.com/kushmittal7238-dot/vrinda-Store-Data-analysis)
 
 - 👯 Project [HR Analytics Dashboard](https://github.com/kushmittal7238-dot/HR-Analytics-Dashboards)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kushmittal7238@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mmAMYKf4PBm_HuwPGS9Cly98c3rLh-Lo/view?usp=drive_link](https://drive.google.com/file/d/1mmAMYKf4PBm_HuwPGS9Cly98c3rLh-Lo/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1mmAMYKf4PBm_HuwPGS9Cly98c3rLh-Lo/view?usp=drive_link](https://drive.google.com/file/d/1mmAMYKf4PBm_HuwPGS9Cly98c3rLh-Lo/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
