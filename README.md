@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushmittal7238-dot&label=Profile%20views&color=0e75b6&style=flat" alt="kushmittal7238-dot" /> </p>
 
 - 🌱 I’m currently learning **Advanced Excel • Power Bl • SQL • Python**
-- 
+ 
 - 🔭 Project [Vrinda Store Data Analysis](https://github.com/kushmittal7238-dot/vrinda-Store-Data-analysis)
 
 - 👯 Project [HR Analytics Dashboard](https://github.com/kushmittal7238-dot/HR-Analytics-Dashboards)
