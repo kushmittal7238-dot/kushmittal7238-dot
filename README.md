@@ -25,10 +25,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kush-mittal-1b5974299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kush mittal" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kushmittal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kushmittal07/" height="30" width="40" /></a>
-<a href="https://instagram.com/kushmittal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushmittal_07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kush_mittal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kush_mittal07" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/301405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="301405" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kushmittal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kushmittal07/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kushmittal07/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushmittal_07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kush_mittal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kush_mittal07" height="30" width="40" /></a>
+
 </p>
 
 
