@@ -1,10 +1,15 @@
 ![logo](https://github.com/kushmittal7238-dot/kushmittal7238-dot/blob/main/ChatGPT%20Image%20Jun%202%2C%202026%2C%2006_16_48%20PM.png)
 <h1 align="center">Hi 👋, I'm Kush Mittal</h1>
 <h3 align="center">A passionate aspiring data analyst from India</h3>
-
-<img align="right" alt="data analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">Data Analyst in the making — I turn messy spreadsheets into decisions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushmittal7238-dot&label=Profile%20views&color=0e75b6&style=flat" alt="kushmittal7238-dot" /> </p>
+
+I'm a BCA student at University of Technology, Jaipur, currently deep in the world of dashboards, DAX measures, and way too many pivot tables. I like data that tells a story — and I like making that story easy for someone with zero patience for spreadsheets to understand in ten seconds.
+
+Most of my time goes into Power BI and Excel, but I'm comfortable pulling data with SQL and cleaning it up in Python when Excel starts crying. I also spend a fair bit of time figuring out how to get GenAI tools (Copilot, mainly) to do the boring 80% of the work so I can focus on the interesting 20%.
+
+Currently on the hunt for a Data Analyst role where I can stop analyzing practice datasets and start analyzing real business problems.
 
 - 🌱 I’m currently learning **Advanced Excel • Power Bl • SQL • Python**
 
@@ -30,6 +35,21 @@
 <a href="https://www.youtube.com/@kush_mittal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kush_mittal07" height="30" width="40" /></a>
 
 </p>
+<p align="left">
+  <a href="mailto:kushmittal7238@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Rajasthan%2C%20India-informational?style=flat" />
+</p>
+
+<p align="left">
+   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white" />
+</p>
 
 
 # 💻 Tech Stack:
@@ -40,17 +60,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kushmittal7238-dot&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kush Mittal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Let's talk data
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kush Mittal&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Kush Mittal&icon=7&color=5)](https://visitcount.itsvg.in)
-
+I'm always up for a conversation about weird datasets, DAX puzzles, or why a chart that looks great can still be lying to you. Reach out — details above.
 
 
